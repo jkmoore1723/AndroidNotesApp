@@ -1,8 +1,7 @@
 # AndroidNotesApp
 Mobile automation using Appium for testing on a android application.
 
-
-*Setup*
+# Setup
 
 Install packages: Node JS,
                   Java SDK, 
@@ -12,7 +11,7 @@ Install packages: Node JS,
 
 
 
-*Run Test*
+# Run Test
 
 -npx wdio {config} --spec {filename}
                   
