@@ -1,5 +1,5 @@
 # AndroidNotesApp
-Mobile automation using Appium for testing on a android application.
+This is a Mobile automation project using Appium for testing on a android application.
 
 # Setup
 
